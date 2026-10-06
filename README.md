@@ -32,6 +32,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aadarsh Rai](https://aadarshrai.vercel.app) [AI Engineer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
+- [Aaftab Vijapura](https://aaftab.is-a.dev)[Full-Stack & Frontend Developer]
 - [Aahana Bobade](https://aahanabobade.com) [Software Developer]
 - [Aahana Surya](https://aahana-surya.github.io) [CS Undergrad | AI & Robotics]
 - [Aahil Khan](https://aahil-khan.xyz) [AI Engineer | Full Stack Developer]
@@ -493,6 +494,7 @@ This repo can serve as inspiration for your portfolio!
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
 - [Carlos Rojas](https://carlos-rojas-portfolio.vercel.app) [Full Stack Developer | Aspiring Software Engineer]
+- [Carlton Lindsay](https://carlton.dev) [Design Engineer | Astro, React, TypeScript]
 - [Carter Ogunsola](https://carterogunsola.com) [Creative Developer | WebGL, Three.js, Astro]
 - [Cassiane Nascimento](https://cassymari.github.io/Portfolio-profissional/)
 - [Cecelia Martinez](http://ceceliacreates.com)
@@ -1314,6 +1316,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nafiz Iqbal](https://nafiziqbal.com) [Full Stack Web Developer]
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Software Engineer | Mid Level]
+- [Naman Kumar](https://naman-kumar2397.github.io) [Lead Site Reliability Engineer | AWS, Observability, AI Ops]
 - [Nandan Sai](https://nandan.engineer) [Full Stack Developer | AI Tools]
 - [Nanday Das](https://nandaydas.in) [Mobile App Developer]
 - [Naqqash](https://portfolionaqqash.vercel.app) [Full Stack 3D Developer]
